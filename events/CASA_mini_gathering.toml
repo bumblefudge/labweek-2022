@@ -10,7 +10,7 @@ dri = "@bumblefudge"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://github.com/ChainAgnostic/Gatherings/blob/main/2022-10-27-LIS-ethlisbon/agenda.md"
+website = "https://github.com/ChainAgnostic/Gatherings/blob/main/2022-10-27-LIS-ethlisbon/"
 
 # the start date of the event
 date = "2022-10-27"
@@ -22,13 +22,13 @@ days = 1
 times = "15:00 - 18:00"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "Garagem Lisboa"
+venueName = "Time to Cowork"
 
 # the event venue address (will show up on a map -- TODO)
-venueAddress = "Jardim 9 de Abril, 1200-736 Lisboa, Portugal"
+venueAddress = "\Avenida 24 de julho numero 3, 1esquerdo, 1200-161 Lisboa"
 
 # the max number of attendees of the event
-attendees = "50"
+attendees = "30"
 
 
 # these is unsued:
